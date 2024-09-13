@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ienstapos",
+    "slug": "ienstapos",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "tabletOnly": true,
+    "icon": "./assets/screen.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/screen.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/screen.png"
+    }
+  }
+}
